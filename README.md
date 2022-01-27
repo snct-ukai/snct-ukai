@@ -5,10 +5,11 @@
 
 初めて触れた言語はC#、最近はpythonとflaskを使ってwebアプリケーションを作成するのにはまっている
 
-パソコン甲子園モバイル部門のためのアプリを開発中
+2021年 パソコン甲子園モバイル部門本選出場
 
 
 # 制作したもの
-- ultimate sercher
+- ultimate sercher(Nit. Toba ハッカソン)
 - BINGO抽選機
 - discord用スケジュール管理bot
+- Micelle(タスク・体調共有アプリ、PCK2021)
